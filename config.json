@@ -1,0 +1,22 @@
+{
+  "api": {
+    "key": "YourApiKey",
+    "url": "https://api.tarkov-market.app/api/v1",
+    "refresh_interval_seconds": 300
+  },
+  "hotkeys": {
+    "toggle_detection": "f9",
+    "toggle_overlay": "f10"
+  },
+  "overlay": {
+    "opacity": 0.95,
+    "width": 250,
+    "height": 150,
+    "position_x": 1670,
+    "position_y": 898
+  },
+  "detection": {
+    "active_on_start": true,
+    "cooldown_seconds": 0.5
+  }
+}
