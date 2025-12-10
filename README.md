@@ -26,9 +26,13 @@ Auto-refresh Tarkov-Market data
 📂 Files
 
 main.py             # Overlay + detection + API logic
+
 all_items.json      # Auto-cached items
+
 data.json           # Trader price data (manual) can query all items using tarkov dev api follow the format in data.json (https://tarkov.dev/api/) [Will upload here if there are any changes on trader prices] 
+
 config.json         # Auto-created settings
+
 icon_templates.json # Optional OCR templates
 
 !Only trader prices are taken from Tarkov dev since there is some wrong info with the Tarkov market!
